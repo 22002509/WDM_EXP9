@@ -27,8 +27,8 @@ for this purpose.
 
 ### Output:
 
-![lab9](https://github.com/user-attachments/assets/fbe8d7f0-450d-4eb3-a846-e8ac6a25e3b0)
 ![lab 9](https://github.com/user-attachments/assets/cd78d1c1-3a39-4382-bd1a-0ca4d59742e5)
+![lab9](https://github.com/user-attachments/assets/fbe8d7f0-450d-4eb3-a846-e8ac6a25e3b0)
 ![lab 9 output](https://github.com/user-attachments/assets/6a916796-885b-4c86-a0da-c87be1b7ea60)
 
 ### Result:
